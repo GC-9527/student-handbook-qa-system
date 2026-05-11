@@ -262,6 +262,3 @@ pipeline.engine.load_index("path/to/index")
 
 详细架构说明请参见 [ARCHITECTURE.md](ARCHITECTURE.md)。
 
-## 许可证
-
-MIT License
